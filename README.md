@@ -20,8 +20,6 @@
   <br>
   📚 I’m currently researching how to build and fork new blockchain.
  </a>
-  <br>
-  📫 How to reach me: <a href="mailto: smart.developer5555@gmail.com">smart.developer5555@gmail.com</a>
 </p>
 
 <hr>
