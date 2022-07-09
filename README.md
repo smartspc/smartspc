@@ -8,13 +8,13 @@
 
 <br>
 <p align="center">
-                Computer Engineer & Software Developer
-        (Blockchain & Web & Embedded System and Mircoprogramming)
+                Professional Software Engineer
+        (Blockchain | Full Stack Web | Embedded System | Firmware Programming)
   <br>
   <br>
   🔬 Recently I'm concentrating on Blockchain Development so I'm gaining a lot of experience.
   <br>
-  🎓 I majored in Computer Embedded System when I was in university.
+  🎓 I majored in Computer Embedded System and Microprocessor Architecture when I was in university.
   <br>
   💻 I love writing code and learn anythings about it
   <br>
