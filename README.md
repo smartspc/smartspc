@@ -18,7 +18,6 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently researching how to build and fork new blockchain.
  </a>
 </p>
 
