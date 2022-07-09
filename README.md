@@ -14,7 +14,7 @@
   <br>
   🔬 Recently I'm concentrating on Blockchain Development so I'm gaining a lot of experience.
   <br>
-  🎓 I majored in Computer Embedded System when I was in univerity.
+  🎓 I majored in Computer Embedded System when I was in university.
   <br>
   💻 I love writing code and learn anythings about it
   <br>
