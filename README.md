@@ -16,7 +16,7 @@
   <br>
   🎓 I majored in Computer Embedded System and Microprocessor Architecture when I was in university.
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing creative code and learning anythings about it, cooperating with partners
   <br>
  </a>
 </p>
